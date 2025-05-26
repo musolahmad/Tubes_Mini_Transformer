@@ -1,5 +1,6 @@
 # Text Normalize
 
+## Task
 **Deskripsi Task**  
 Task ini digunakan untuk menormalisasi kan kata yang tidak baku atau alay menjadi kata baku sesuai EYD Bahasa Indonesia
 
@@ -11,7 +12,7 @@ Disediakan oleh: nasalsabila
 
 ---
 
-### Link Asli Dataset
+## Link Asli Dataset
 
 https://github.com/nasalsabila/kamus-alay/blob/master/colloquial-indonesian-lexicon.csv
 
