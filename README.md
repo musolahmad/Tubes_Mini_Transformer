@@ -16,7 +16,7 @@ Disediakan oleh: nasalsabila
 
 https://github.com/nasalsabila/kamus-alay/blob/master/colloquial-indonesian-lexicon.csv
 
-## Informasi Statistik Dataset Asli
+## Informasi Statistik Dataset
 
 | # | Column | Non-Null Count | Dtype |
 |---|---|---|---|
